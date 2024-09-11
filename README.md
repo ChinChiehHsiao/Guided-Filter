@@ -3,11 +3,11 @@
 
 
 
-Reference : ZHU, Qingsong; MAI, Jiaming; SHAO, Ling. A fast single image haze removal algorithm using color attenuation prior. IEEE transactions on image processing, 2015, 24.11: 3522-3533.<br><br>
-顏色衰減先驗圖像去霧文章復現<br>
+Reference : HE, Kaiming; SUN, Jian; TANG, Xiaoou. Guided image filtering. IEEE transactions on pattern analysis and machine intelligence, 2012, 35.6: 1397-1409.<br><br>
+引導圖像濾波文章復現<br>
 使用python<br><br>
-- 原文PDF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7128396)
-- 原文DOI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://doi.org/10.1109/TIP.2015.2446191)
+- 原文PDF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6319316)
+- 原文DOI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：[點擊此連結](https://doi.org/10.1109/TPAMI.2012.213)
 - 原作者code &nbsp;：[點擊此連結](https://github.com/JiamingMai/Color-Attenuation-Prior-Dehazing)<br><br>
 
 
