@@ -37,7 +37,7 @@ Reference : HE, Kaiming; SUN, Jian; TANG, Xiaoou. Guided image filtering. IEEE t
 
 操作說明 
 ---
-打開 `guided filter.ipynb` , 修改圖片名稱並執行即可<br>
+打開 `guided filter.ipynb` , 修改圖片名稱並執行即可<br><br>
 
 
 
