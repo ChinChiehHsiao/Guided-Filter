@@ -1,14 +1,13 @@
 # (2012) Guided Image Filtering
-`image shape = 512 * 384`<br>
-`Hyperparameters: r=60, &epsilon;=0.00001`<br>
-&epsilon;=
+`image shape = (512, 384)`<br>
+`Hyperparameters: r=60, eps=0.00001`<br>
 - guided gilter ， opencv的boxfilter運算時間 : 0.0040 秒
 - guided gilter ， 自定義boxfilter的運算時間 : 7.8414 秒
 - guided gilter ， opencv內建的GF運算時間 : 0.0030 秒<br><br>
 ![7c984509-6464-4064-b17f-b7e6a7f979c9](https://github.com/user-attachments/assets/90be0fc0-5e05-4de1-ae46-9641ab099a6f)
 #
 
-`image shape = 750 * 916`<br>
+`image shape = (750, 916)`<br>
 `Hyperparameters: r=9, eps=0.01`<br>
 - guided gilter ， opencv的boxfilter運算時間: 0.0140 秒
 - guided gilter ， 自定義boxfilter的運算時間: 12.7071 秒
