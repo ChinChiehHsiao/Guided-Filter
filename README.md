@@ -1,8 +1,8 @@
 # (2012) Guided Image Filtering
 `Hyperparameters: r=60, eps=0.00001`<br>
-- 
+
 ![7c984509-6464-4064-b17f-b7e6a7f979c9](https://github.com/user-attachments/assets/90be0fc0-5e05-4de1-ae46-9641ab099a6f)
-#
+-
 
 
 
