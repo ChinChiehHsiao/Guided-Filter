@@ -55,6 +55,6 @@ result名稱說明
 關於
 ---
 
-- contact : jayabc321@gmail.com
+- 聯繫 : jayabc321@gmail.com
 - 復現 : 蕭晉杰
 - 時間 : 2024.09.12
