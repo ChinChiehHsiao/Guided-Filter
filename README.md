@@ -5,7 +5,22 @@
 - guided gilter ， opencv內建的GF運算時間 : 0.0030 秒<br><br>
 ![7c984509-6464-4064-b17f-b7e6a7f979c9](https://github.com/user-attachments/assets/90be0fc0-5e05-4de1-ae46-9641ab099a6f)
 #
-  
+
+`Hyperparameters: r=9, eps=0.01`<br>
+- guided gilter ， opencv的boxfilter運算時間: 0.0140 秒
+- guided gilter ， 自定義boxfilter的運算時間: 12.7071 秒
+- guided gilter ， opencv內建的GF運算時間: 0.0105 秒<br><br>
+![fbb711ad-bbbf-4ef4-9890-b9a6fa1f26b3](https://github.com/user-attachments/assets/7ba6d4be-e36d-401d-b4c3-401fa1074903)
+#
+
+`Hyperparameters: r=9, eps=0.01`<br>
+- guided gilter ， opencv的boxfilter運算時間: 0.0100 秒
+- guided gilter ， 自定義boxfilter的運算時間: 7.8759 秒
+- guided gilter ， opencv內建的GF運算時間: 0.0060 秒<br><br>
+![33649b05-dfc5-4793-a9af-4178b414f288](https://github.com/user-attachments/assets/35a58c1c-b862-449f-bc36-d97645568bd0)
+#
+
+
 
 
 
