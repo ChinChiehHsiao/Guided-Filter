@@ -1,4 +1,5 @@
 # (2012) Guided Image Filtering
+`image shape = 512 * 384`<br>
 `Hyperparameters: r=60, eps=0.00001`<br>
 - guided gilter ， opencv的boxfilter運算時間 : 0.0040 秒
 - guided gilter ， 自定義boxfilter的運算時間 : 7.8414 秒
