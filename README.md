@@ -15,6 +15,7 @@
 ![fbb711ad-bbbf-4ef4-9890-b9a6fa1f26b3](https://github.com/user-attachments/assets/7ba6d4be-e36d-401d-b4c3-401fa1074903)
 #
 
+`image shape = (353, 800)`<br>
 `Hyperparameters: r=9, eps=0.01`<br>
 - guided gilter ， opencv的boxfilter運算時間: 0.0100 秒
 - guided gilter ， 自定義boxfilter的運算時間: 7.8759 秒
